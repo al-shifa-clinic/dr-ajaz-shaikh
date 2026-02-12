@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://al-shifa-clinic.github.io/dr-ajaz-shaikh/sitemap.xml
